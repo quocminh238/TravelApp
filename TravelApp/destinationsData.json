@@ -1,0 +1,95 @@
+[
+    {
+        "id": 1,
+        "name": "Ha Long Bay",
+        "province": "Quảng Ninh",
+        "coordinates": {
+            "longitude": 107.184632840441,
+            "latitude": 20.91911093379736
+        },
+        "description": "Halong Bay is a UNESCO World Heritage Site and popular travel destination in Quảng Ninh Province, Vietnam. The name Hạ Long means descending dragon. The bay features some 1,600 islands and islets in various shapes and sizes, forming a spectacular seascape of limestone pillars. Because of their precipitous nature, most of the islands are uninhabited and unaffected by a human presence.",
+        "stars": 5,
+        "score": "4.9",
+        "isPopular": true,
+        "isRecommended": true,
+        "imageAvatar": "HaLongBay",
+    },
+    {
+        "id": 2,
+        "name": "Temple of Literature",
+        "province": "Hanoi",
+        "coordinates": {
+            "longitude": 105.83616266772773,
+            "latitude": 21.02956919956308
+        },
+        "description": "Temple of Literature (Vietnamese: Văn Miếu, Chinese: 文廟) is a temple dedicated to Confucius in Hanoi, northern Vietnam. The temple also hosts the Imperial Academy (Vietnamese: Quốc Tử Giám, Chinese: 國子監), Vietnam's first national university. The temple was built in 1070 at the time of Emperor Lý Thánh Tông. It is one of several temples in Vietnam which is dedicated to Confucius, sages and scholars. The temple is located to the south of the Imperial Citadel of Thăng Long. The various pavilions, halls, statues and stelae of doctors are places where offering ceremonies, study sessions and the strict exams of the Đại Việt took place.",
+        "stars": 3,
+        "score": "3.2",
+        "isPopular": false,
+        "isRecommended": true,
+        "imageAvatar": "QuocTuGiam",
+    },
+    {
+        "id": 3,
+        "name": "Hoi An Ancient Town",
+        "province": "Quảng Nam",
+        "coordinates": {
+            "longitude": 108.32818290995083,
+            "latitude": 15.878388100628353
+        },
+        "description": "Hoi An is a city on Vietnam’s central coast known for its well-preserved Ancient Town, cut through with canals. The former port city’s melting-pot history is reflected in its architecture, a mix of eras and styles from wooden Chinese shophouses and temples to colorful French colonial buildings, ornate Vietnamese tube houses and the iconic Japanese Covered Bridge with its pagoda.",
+        "stars": 4,
+        "score": "4.1",
+        "isPopular": true,
+        "isRecommended": false,
+        "imageAvatar": "PhoCoHoiAn",
+    },
+    {
+        "id": 4,
+        "name": "Son Doong Cave",
+        "province": "Quảng Bình",
+        "coordinates": {
+            "longitude":106.14378522327883,
+            "latitude": 17.547708949950056
+        },
+        "description": "Son Doong Cave is well-known for its enormous size by volume, as well as a cross-section that has been meticulously measured. The main huge passage is over 5km long with sections reaching up to 200m tall and 165m wide, large enough to house an entire 40-story New York City skyscraper. Thereby, Guinness World Records recognized Son Doong Cave as the largest cave in the world in 2015. This is considered to be the first and only cave on Earth that has its own lush tropical jungle, underground river, and unique climate. Son Doong’s two giant dolines allow sunlight to penetrate into them, while also combining with groundwater to form a unique ecosystem unmatched anywhere else in the world. ",
+        "stars": 4,
+        "score": "4.6",
+        "isPopular": true,
+        "isRecommended": false,
+        "imageAvatar": "SonDoongAvatar",
+    },
+    {
+        "id": 5,
+        "name": "Imperial City of Hue",
+        "province": "Huế",
+        "coordinates": {
+            "longitude": 107.57848286230538,
+            "latitude": 16.475109017985776
+        },
+        "description": "Imperial City of Hue is a city in central Vietnam that was the seat of Nguyen Dynasty emperors and the national capital from 1802 to 1945. A major attraction is its vast, 19th-century Đại Nội Citadel, surrounded by a moat and thick stone walls. It encompasses the Imperial City, with palaces and shrines; the Forbidden Purple City (Tử cấm thành), once the emperor’s home.",
+        "stars": 4,
+        "score": "4.1",
+        "isPopular": false,
+        "isRecommended": true,
+        "imageAvatar": "CoDoHue",
+    },
+    {
+        "id": 6,
+        "name": "My Son Sanctuary",
+        "province": "Quảng Nam",
+        "coordinates": {
+            "longitude": 108.12454446102775,
+            "latitude": 15.765140975108796
+        },
+        "description": "Between the 4th and 13th centuries a unique culture which owed its spiritual origins to Indian Hinduism developed on the coast of contemporary Vietnam. This is graphically illustrated by the remains of a series of impressive tower-temples located in a dramatic site that was the religious and political capital of the Champa Kingdom for most of its existence. The tower temples have a variety of architectural designs symbolizing the greatness and purity of Mount Meru. They are constructed in fired brick with stone pillars and decorated with sandstone bas-reliefs depicting scenes from Hindu mythology to bring the insight into the content and evolution of Cham religious and political thought.",
+        "stars": 4,
+        "score": "4.4",
+        "isPopular": false,
+        "isRecommended": true,
+        "imageAvatar": "ThanhDiaMySon",
+    },
+
+    
+]
+
