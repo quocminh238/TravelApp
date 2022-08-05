@@ -14,6 +14,19 @@
 
 <img src="https://github.com/quocminh238/TravelApp/blob/main/screenshots/WelcomeScreen.png" width="238" > <img src="https://github.com/quocminh238/TravelApp/blob/main/screenshots/HomeScreen.png" width="238" > <img src="https://github.com/quocminh238/TravelApp/blob/main/screenshots/DetailScreen.png" width="239" >
 
+## 🔮 Live Demo (Animation GIF)
+
+<table>
+  <tr>
+    <td>Full Version</td>
+     <td>Lite Version (No Map)</td>
+  </tr>
+  <tr>
+    <td><img src="https://rmiteduau-my.sharepoint.com/:i:/r/personal/s3758994_rmit_edu_vn/Documents/Asm1%20-%20TravelApp%20-%20iOS/DetailScreen.gif?csf=1&web=1&e=2bpyvN" width="280"></td>
+    <td><img src="https://github.com/TomHuynhSG/SSETContactList/blob/main/screenshots/no-map-demo.gif?raw=true" width="280"></td>
+   </tr>
+
+ </table>
 
 ## 🔧 Build Information
 - XCode 13.4.1
