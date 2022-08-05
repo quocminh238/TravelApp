@@ -1,7 +1,7 @@
 # Rmit Travel App
 
 ## 📖 Description
-- This is a simple iOS Application using Swift language and SwiftUI to create 
+- This is a simple iOS Application using Swift language and SwiftUI to create  
 - This is an  app contains simple components such as NavigationLink for direct to other views, ScrollView to create carousel, ...
 
 
@@ -9,8 +9,10 @@
 
 ## 🏡 Home View
 
+<p align="center">
+  <img width="100" src="https://youtube.com/shorts/S-8rCnj8beg">
+</p>
 
-https://youtube.com/shorts/S-8rCnj8beg
 
 
 ## 🍿 Destinations List
