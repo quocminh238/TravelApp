@@ -10,7 +10,7 @@
 ## 🏡 Home View
 
 <p align="center">
-  <img width="100" src="https://youtube.com/shorts/S-8rCnj8beg">
+  <img width="280" src="https://youtube.com/shorts/S-8rCnj8beg">
 </p>
 
 
