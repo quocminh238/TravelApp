@@ -1,11 +1,11 @@
-# Rmit Travel App
+#Vietnam Travel App
 
 
 <p align="center">
   <img width="100" src="https://github.com/quocminh238/TravelApp/blob/main/screenshots/IconApp.png">
 </p>
 
-<p align="center">"Enjoy the bet experience with many scenic areas at Vietnam!"</p>
+<p align="center">"Enjoy the best experience with many scenic areas at Vietnam!"</p>
 
 ## 📖 Description
 - This is a simple iOS Application using Swift language and SwiftUI which target to provide specific information of scenic areas in Vietnam for foreign tourists.
@@ -15,7 +15,7 @@
 <img src="https://github.com/quocminh238/TravelApp/blob/main/screenshots/WelcomeScreen.png" width="238" > <img src="https://github.com/quocminh238/TravelApp/blob/main/screenshots/HomeScreen.png" width="238" > <img src="https://github.com/quocminh238/TravelApp/blob/main/screenshots/DetailScreen.png" width="239" >
 
 ## 🔮 Live Demo (Animation GIF)
-<img src="https://rmiteduau-my.sharepoint.com/personal/s3758994_rmit_edu_vn/Documents/Asm1%20-%20TravelApp%20-%20iOS/DetailScreen.gif" width="238" > 
+<img src="https://drive.google.com/file/d/1k7WlAlsqGHKbt5WuicljIDxqUlVXJzaP/view?usp=sharing" width="238" > 
 
 
 ## 🔧 Build Information
