@@ -1,3 +1,3 @@
 # TravelApp
 
-    ![alt text](imgs/appstore.png)
+![alt text](imgs/appstore.png)
