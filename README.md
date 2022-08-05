@@ -15,7 +15,7 @@
 <img src="https://github.com/quocminh238/TravelApp/blob/main/screenshots/WelcomeScreen.png" width="238" > <img src="https://github.com/quocminh238/TravelApp/blob/main/screenshots/HomeScreen.png" width="238" > <img src="https://github.com/quocminh238/TravelApp/blob/main/screenshots/DetailScreen.png" width="239" >
 
 ## 🔮 Live Demo (Animation GIF)
-<img src="https://drive.google.com/file/d/1k7WlAlsqGHKbt5WuicljIDxqUlVXJzaP/view?usp=sharing" width="238" > 
+<img src="https://drive.google.com/file/d/1k7WlAlsqGHKbt5WuicljIDxqUlVXJzaP/view?usp=sharing" width="280" > 
 
 
 ## 🔧 Build Information
