@@ -28,6 +28,6 @@
 
 
 ## ✍️ Author
-- Nguyen Quoc Minh - s3758994@rmit.edu.vn / rjichado@gmail.com
+- Nguyen Quoc Minh - s3758994@rmit.edu.vn / quocminh.nguyen.dev@gmail.com
 
 
